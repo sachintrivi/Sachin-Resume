@@ -1,2 +1,2 @@
-# Sachin-Resume.github.io
+# Resume
 Hi This is my Resume
